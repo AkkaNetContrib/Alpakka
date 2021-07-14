@@ -15,7 +15,7 @@
         <PackageReference Include="xunit.runner.visualstudio" Version="$(XunitRunnerVersion)" />
         <PackageReference Include="coverlet.collector" Version="3.0.3" />
 
-        <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="3.1.9" />
+        <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="5.0.8" />
         <PackageReference Include="Microsoft.AspNetCore.SignalR.Client" Version="5.0.5" />
     </ItemGroup>
 
